@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬──────────────────────┬────────────────┬────────────────────┐
+│ state ┆ youngest             ┆ oldest         ┆ alphabetical_first │
+│ ---   ┆ ---                  ┆ ---            ┆ ---                │
+│ cat   ┆ str                  ┆ str            ┆ str                │
+╞═══════╪══════════════════════╪════════════════╪════════════════════╡
+│ MO    ┆ Vicky Hartzler       ┆ Spencer Pettis ┆ Abram Comingo      │
+│ DE    ┆ John Carney          ┆ Samuel White   ┆ Albert Polk        │
+│ DK    ┆ George Mathews       ┆ John Todd      ┆ George Mathews     │
+│ NM    ┆ Xochitl Torres Small ┆ José Gallegos  ┆ Albert Fall        │
+│ OL    ┆ Julien Poydras       ┆ Daniel Clark   ┆ Daniel Clark       │
+└───────┴──────────────────────┴────────────────┴────────────────────┘
